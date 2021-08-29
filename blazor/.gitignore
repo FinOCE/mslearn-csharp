@@ -1,0 +1,5 @@
+!.gitignore
+wwwroot
+appsettings.Development.json
+
+# hiding these files because it just contains boilerplate stuff like bootstrap and icons and that...
